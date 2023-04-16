@@ -1,2 +1,2 @@
-console.log(document.URL)
-window.alert('Learing Javascript')
+// window.localStorage.setItem('test', 'This is my test...') //save to local storage
+window.localStorage.removeItem('test')
